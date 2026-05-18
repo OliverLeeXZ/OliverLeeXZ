@@ -1,6 +1,6 @@
 ## Hi, this is Xiaozhe. 👋
 
-I am currently a PhD student at the School of Computer Science and Technology, Tongji University. I am doing the internship in the Post-Training Group in OpenLM team, Shanghai AI Lab. (from Jan. 2025 - Present) Research focus on (M)LLM and Agentic post-training. If you are interested in collaborating, please feel free to reach out to me.
+I am currently a PhD student at the School of Computer Science and Technology, Tongji University. I am interning with the Post-Training Group of the OpenLM team at Shanghai AI Lab (January 2025 – Present), focusing on (M)LLMs and agentic post-training. If you are interested in collaboration, please feel free to reach out to me.
 
 ![](https://komarev.com/ghpvc/?username=OliverLeeXZ&color=blueviolet)
 
