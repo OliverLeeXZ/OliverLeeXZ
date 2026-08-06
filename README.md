@@ -6,6 +6,8 @@ I am currently a PhD student at the School of Computer Science and Technology, T
 
 ## GitHub Stats
 
+<img src="https://github-stats-extended.vercel.app/api?username=OliverLeeXZ&show_icons=true&theme=buefy" alt="Oliver's GitHub stats" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OliverLeeXZ/OliverLeeXZ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliverLeeXZ/OliverLeeXZ/output/github-contribution-grid-snake.svg">
